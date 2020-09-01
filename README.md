@@ -1,7 +1,7 @@
 # CubeCalculator
 Coded in Java
 
-  import java.lang.Math; 
+      import java.lang.Math; 
 
       class Main {
 
